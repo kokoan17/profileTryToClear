@@ -11,6 +11,7 @@ body {
     display: flex;
     justify-content: center;
     font-family: "Roboto", sans-serif;
+    background-color: black;
 }
 
 .container {
@@ -18,7 +19,7 @@ body {
     overflow: hidden;
     border: solid 1px black;
     /* background-color: black; */
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: black;
 }
 
 header {
